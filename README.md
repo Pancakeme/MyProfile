@@ -1,2 +1,2 @@
 # MyProfile
-Implantations of carious models
+Implemntations of various models

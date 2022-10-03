@@ -1,5 +1,8 @@
 # MyProfile
-Implemntations of various models
+**Implemntations of various models**
+
+  
+  
 
 K Means  
 

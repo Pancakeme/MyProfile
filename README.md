@@ -1,5 +1,5 @@
 # MyProfile
-**Implemntations of various models**
+**Implmentations of various models**
 
   
   
